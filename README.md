@@ -1,4 +1,4 @@
-👋  Hello, I’m Angelika 
+👋  Hello, I’m Angelika;
 I'm a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily.
 🛠  Testing tools that I use:
 ![image](https://github.com/AngelikaO89/AngelikaO89/assets/126056090/c7ea6cd8-c353-4dd3-9e34-e60c7e469860)
